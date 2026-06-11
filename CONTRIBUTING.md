@@ -63,7 +63,7 @@ Enhancement suggestions are tracked as GitHub issues.
 
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/meteora-pool-bot.git
+git clone https://github.com/detaapril1/Screening_pool_met.git
 cd meteora-pool-bot
 
 # Create virtual environment
