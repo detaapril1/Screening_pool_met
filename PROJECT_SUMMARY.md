@@ -563,7 +563,7 @@ Total scan cycle: ~2 seconds
 - **Version:** 1.0.0
 - **Status:** Production Ready ✅
 - **Python:** 3.8+
-- **Last Updated:** January 2024
+- **Last Updated:** Juny 2026
 
 ---
 
