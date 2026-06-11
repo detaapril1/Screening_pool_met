@@ -1,4 +1,4 @@
-# Meteora Pool Screening Bot 🤖
+# Meteora Pool Screening Bot
 
 A powerful cryptocurrency bot that automatically monitors and screens Meteora DEX pools on Solana blockchain, identifies profitable opportunities, and sends real-time notifications to Telegram.
 
@@ -608,4 +608,10 @@ This bot is provided as-is for educational purposes. Cryptocurrency trading invo
 
 **Happy pool screening! 🚀**
 
-Last Updated: January 2024
+Created on: June 12, 2026
+Last Updated: June 2026
+
+Creator: Detaapril
+Instagram: @detaapril
+Telegram: @detaapril01
+X: @detaapril
