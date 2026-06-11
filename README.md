@@ -366,7 +366,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - 📖 Read documentation in [docs/](docs/)
 - 🐛 Report bugs via [Issues](../../issues)
 - 💡 Suggest features via [Discussions](../../discussions)
-- 📧 Contact: your-email@example.com
+- 📧 Contact: detaanakbaik@gmail.com
 
 ## 🌟 Show Your Support
 
@@ -376,6 +376,6 @@ If this project helped you, please give it a ⭐ on GitHub!
 
 **Made with ❤️ for the Solana community**
 
-**Version:** 1.0.0 | **Status:** Production Ready | **Last Updated:** January 2024
+**Version:** 1.0.0 | **Status:** Production Ready | **Last Updated:** Juny 2026
 
 [⬆ back to top](#-meteora-pool-screening-bot)
