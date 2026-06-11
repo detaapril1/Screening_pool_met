@@ -152,7 +152,7 @@ meteora_pool_bot/
 
 ```bash
 # Clone from GitHub
-git clone https://github.com/yourusername/meteora-pool-bot.git
+git clone https://github.com/detaapril1/Screening_pool_met.git
 cd meteora-pool-bot
 
 # Or create directory manually
